@@ -2,7 +2,7 @@
 ## General Information
   - Date: Mid-late Aug
   - Location: Monstrose Beach Track Area
-    - Plus Cabin Trip at end for celebration. 
+    - Plus Cabin Trip at end for celebration(?)
   - Awards: ???
 ## Events
   - Swimming
