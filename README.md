@@ -9,9 +9,11 @@
     - 100 meters
     - Shotput
     - Javelin
+    - Long Jump
   - Swimming
     - IM (butterfly > backstroke > breastroke > freestyle 1 pool length each)
     - Freestyle (2/4 pool lengths total)
   - Weightlifting
     - Maybe carrying something heavy or like 1 bench press
-  - Gymnastics
+  - Gymnastics (at potential cabin)
+  - Fencing (at potential cabin)
