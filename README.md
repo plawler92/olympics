@@ -20,3 +20,57 @@
   - Gymnastics (at potential cabin)
   - Fencing (at potential cabin)
   - Archery (cabin wildcard)
+
+## What to Bring
+- Running shoes
+- Swimming attire (tighter fit shorts = you go ever so slightly faster)
+  - Bring goggles if you have them but we will have ~4-5 pairs
+- Sunscreen
+- Water / Electrolytes
+- Some kind of snack / energy bar / etc (optional)
+- A fun having attitude
+
+## Olympic Order of Occasions
+  - Track
+    - Arrive by: 
+    - 100 meter spring
+      - 10-15 minute warmup start on your own
+      - 2 Runs (gender split)
+        - 1 person timing
+        - 1 person filming at end
+        - 1 person filming at start / says go
+    - Long Jump / Broad Jump 
+      - 5 minute warmup
+      - 3 jumps per person
+    - Move to field
+    - Throwing
+      - Shotput
+        - Setup circle ~5ft diameter using flags
+        - 3 throws / person
+        - Measure from middle front of circle to initial landing point of shotput
+      - Javelin 
+        - Setup a line to throw from
+        - 3 throws / person
+        - Measure from middle front of line to initial landing point of javelin
+    - Move to 4343 N Clarendon
+    - Weightlifting
+      - Bench Press
+        - 1 Rep Max wins
+        - Can keep adding weight until you stop
+        - 1 failed lift = done
+      - Leg Press
+        - 1 Rep Max wins
+        - Can keep adding weight until you stop
+        - 1 failed lift = done
+    - Swimming
+      - Individual Medley
+        - Butterfly > Backstroke > Breastroke > Freestyle
+          - 1 pool length (~20m) each
+        - Fastest time wins
+        - Heats of as many people as we can fit
+          - Someone needs to keep time
+      - Freestyle
+        - 1 pool lap (~40m total)
+        - Fastest time wins
+    - After Party
+      - Apt 2814
